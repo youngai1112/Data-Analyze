@@ -6,3 +6,5 @@
 - 네이버 증권
 
 ## 시각화
+- matplotlib
+- seaborn
